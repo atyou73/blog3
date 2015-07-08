@@ -14,5 +14,5 @@ permalink: /about/
 * 2015-현재 : (주) 리나소프트 / 팀장
 
 ### 연락처
-Blog : [www.sangkon.com](www.sangkon.com)
+Blog : [www.sangkon.com](http://www.sangkon.com)
 Mail : [ask@sangkon.com](mailto:ask@sangkon.com)
