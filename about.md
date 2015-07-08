@@ -11,6 +11,8 @@ permalink: /about/
 ### 경력
 * 2013-2014 : (주) 휴먼네트웍스 / 연구원
 * 2014-2014 : (주) Nixgon / 수석연구원
+* 2015-현재 : (주) 리나소프트 / 팀장
 
 ### 연락처
-[sigmadream@gmail.com](mailto:sigmadream@gmail.com)
+Blog : [www.sangkon.com](www.sangkon.com)
+Mail : [ask@sangkon.com](mailto:ask@sangkon.com)
