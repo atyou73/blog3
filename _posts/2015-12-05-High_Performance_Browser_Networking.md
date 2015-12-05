@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 네트워크 최적화 기법
+title: 네트워킹과 웹 성능 최적화 기법
 tags: book
 ---
 
