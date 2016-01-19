@@ -2,7 +2,7 @@
 layout: post
 title: UX For Lean Startups
 author: 로라 클라인,김수영,박기석(역)
-tags: book, 프로젝트관리, 스타트업
+tags: book,project management
 ---
 
 > 우리가 찾은 답은 사무실 밖 세상 어딘가에 있고 우리 고객에게 그 열쇠가 있다(GOOB, Get out of the building).

@@ -2,7 +2,7 @@
 layout: post
 title: 빅데이터 베이스볼 - 20년간 실패한 팀은 어떻게 승자가 되었나 
 author: 트래비스 소칙,이창섭
-tags: book, 데이터분석
+tags: book,data analysis
 ---
 
 > [...] 호퍼(Grace Hopper)는 이런 말을 남겼다. "수학을 배워도, 사람들에게 설명할 수 없다면 아무런 소용이 없다"

@@ -2,7 +2,7 @@
 layout: post
 title: 영원한 건담 어록
 author: 타니타 슌타로,이혁진(역)
-tags: book, 교양, 애니메이션, 건담
+tags: book,liberal arts
 ---
 
 > "아버지는 사람보다 모빌슈트가 더 중요한가요?!", 아무레 레이

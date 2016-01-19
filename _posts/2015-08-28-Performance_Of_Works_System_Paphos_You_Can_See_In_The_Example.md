@@ -2,7 +2,7 @@
 layout: post
 title: 그림으로 공부하는 시스템 성능 구조
 author: 오다 케이지,쿠레마츠 타니히토,오카다 노리마사,히라야마 츠요시,김완섭(역)
-tags: book, 시스템분석
+tags: book,system analysis
 ---
 
 ## 1
