@@ -2,7 +2,7 @@
 layout: post
 title: 평균의 함정
 author: 샘 L. 새비지,김규태(역)
-tags: book,통계,수학
+tags: book, 통계, 수학
 ---
 
 ## 1

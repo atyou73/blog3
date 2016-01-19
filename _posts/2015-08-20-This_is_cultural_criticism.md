@@ -2,7 +2,7 @@
 layout: post
 title: 이것이 문화 비평이다.
 author: 이택광
-tags: book,교양
+tags: book, 교양
 ---
 
 ## 1

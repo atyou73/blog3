@@ -2,7 +2,7 @@
 layout: post
 title: EBS 지식채널 - 시즌 4
 author: EBS 지식채널e 제작팀
-tags: book,교양
+tags: book, 교양
 ---
 
 ## 1

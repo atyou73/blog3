@@ -2,7 +2,7 @@
 layout: post
 title: 마션
 author: 앤디 위어,박아람(역)
-tags: book,SF
+tags: book, SF
 ---
 
 ## 1

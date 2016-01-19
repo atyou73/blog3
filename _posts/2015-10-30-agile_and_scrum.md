@@ -2,7 +2,7 @@
 layout: post
 title: 애자일 개발과 스크럼
 author: 노나카 이쿠지로,히라나베 겐지,이명교(역)
-tags: book,프로젝트관리
+tags: book, 프로젝트관리
 ---
 
 > 애자일은 사람을 키우는 일이다.

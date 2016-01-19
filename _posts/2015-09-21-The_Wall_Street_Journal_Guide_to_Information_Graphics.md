@@ -2,7 +2,7 @@
 layout: post
 title: The Wall Street Journal Guide to Information Graphics
 authro: 도나 M. 웡,이현경,강규영(역)
-tags: book,데이터분석,인포그래픽
+tags: book, 데이터분석, 인포그래픽
 ---
 
 ## 1
