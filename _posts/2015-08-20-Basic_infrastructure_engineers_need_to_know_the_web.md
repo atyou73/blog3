@@ -2,7 +2,7 @@
 layout: post
 title: 웹 엔지니어가 알아야 할 인프라의 기본
 author: 바바 토시아키,김병국(역)
-tags: book,system analysis
+tags: book
 ---
 
 ## 1

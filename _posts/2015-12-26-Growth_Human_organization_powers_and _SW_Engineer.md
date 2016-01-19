@@ -2,7 +2,7 @@
 layout: post
 title: 인간, 조직, 권력 그리고 어느 SW 엔지니어의 변
 author: 이종국
-tags: book,IT
+tags: book
 ---
 
 > 항우는 굶주린 장병들에게 눈물을 흘리며 밥을 주지만 관직은 아까워서 내리지 못하는 사람이라고 말한다.

@@ -2,7 +2,7 @@
 layout: post
 title: 요한복음강해
 author: 도올 김용옥
-tags: book,liberal arts
+tags: book
 ---
 
 ## 1

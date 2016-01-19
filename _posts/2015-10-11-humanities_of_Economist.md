@@ -2,7 +2,7 @@
 layout: post
 title: 경제학자의 인문학 서재
 author: 박정호,김훈민
-tags: book,liberal arts
+tags: book
 ---
 
 ## 1

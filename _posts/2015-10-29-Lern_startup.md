@@ -2,7 +2,7 @@
 layout: post
 title: 린 스타트업
 author: 에릭 리스,이창수,송우일(역)
-tags: book,startup
+tags: book
 ---
 
 # 1

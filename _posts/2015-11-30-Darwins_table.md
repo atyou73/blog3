@@ -2,7 +2,7 @@
 layout: post
 title: 다윈의 식탁
 author: 장대익
-tags: book,liberal arts
+tags: book
 ---
 
 ## 1

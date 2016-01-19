@@ -2,7 +2,7 @@
 layout: post
 title: 소트웍스 앤솔러지 - 소프트웨어 기술과 혁신에 관한 에세이
 author: 마틴 파울러,소트웍스,강규영,최재훈,정지웅,이창신,안영희,이대엽(역)
-tags: book,project management
+tags: book
 ---
 
 ## 1

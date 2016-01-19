@@ -2,7 +2,7 @@
 layout: post
 title: 데이터 시각화, 인지과학을 만나다
 author: 콜린 웨어,최재원(역)
-tags: book,data analysis
+tags: book
 ---
 
 > [...] 그러나 시각 체계는 자체적인 규칙을 갖고 있다. 우리는 어떤 패턴을 무척 쉽게 볼 수 있지만 그것이 다른 방식으로 표현되면 잘 볼 수 없게 된다.

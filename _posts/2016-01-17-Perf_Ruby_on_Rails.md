@@ -2,7 +2,7 @@
 layout: post
 title: 퍼펙트 루비 온 레일즈
 author: 야마다 요시히로,윤인성(역)
-tags: book,web,ruby
+tags: book
 ---
 
 ## 1

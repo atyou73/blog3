@@ -2,7 +2,7 @@
 layout: post
 title: 파이썬으로 배우는 수학적 프로그래밍
 author: 알란 M. 스테이블리,홍상현(역)
-tags: book,python,math
+tags: book
 ---
 
 ## 1

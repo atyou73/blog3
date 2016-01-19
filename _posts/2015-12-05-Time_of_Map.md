@@ -2,7 +2,7 @@
 layout: post
 title: 시간의 지도 - 달력
 author: E.G. 리처즈,이민아(역)
-tags: book,liberal arts
+tags: book
 ---
 
 ## 1

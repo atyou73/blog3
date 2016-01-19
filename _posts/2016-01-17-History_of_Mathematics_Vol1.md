@@ -2,7 +2,7 @@
 layout: post
 title: 수학의 역사 (상)
 author: 칼 B. 보이어,유타 C. 메르츠바흐,양영오,조윤동(역)
-tags: book,math
+tags: book
 ---
 
 > 수학은 추론의 형식이지 디오판투스의 대수와 같은 비법의 모음이 아니다.

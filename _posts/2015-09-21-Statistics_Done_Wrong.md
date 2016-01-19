@@ -2,7 +2,7 @@
 layout: post
 title: 당신이 몰랐던 통계 오류 - 데이터 과학 및 분석을 위한 통찰
 author: 알레스 라인하르트,배인수(역)
-tags: book,math
+tags: book
 ---
 
 ## 1

@@ -2,7 +2,7 @@
 layout: post
 title: 룰 메이커
 author: 이제형,오수려,정미녕
-tags: book,starup
+tags: book
 ---
 
 > "창업자 다수가 다시 투자자가 되어 다른 창업자에 투자를 한다."
