@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 기독교 성서의 이해
-tags: book
+author: 도울 김용옥
+tags: book,교양
 ---
 > 다름(difference)이 없이는 조화(harmony)란 있을 수 없다.
 

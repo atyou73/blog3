@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 다윈의 식탁
-tags: book
+author: 장대익
+tags: book,교양(과학)
 ---
 
 ## 1

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 나쁜 데이터 핸드북
-tags: book
+author: 이든 맥컬럼,문현선(역)
+tags: book,데이터분석
 ---
 
 ## 1

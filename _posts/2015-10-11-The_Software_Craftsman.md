@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 소프트웨어 장인 - 프로페셔널리즘, 실용주의, 자부심
-tags: book
+author: 산드로 만쿠소,권오인(역)
+tags: book,교양(IT)
 ---
 
 ## 1

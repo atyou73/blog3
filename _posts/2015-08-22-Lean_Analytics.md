@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 린 분석(Lean Analytics)
-tags: book
+author: 앨리스테어 크롤,벤저민 요스코비츠,위선주(역)
+tags: book,데이터분석,프로젝트관리,스타트업
 ---
 
 ## 1

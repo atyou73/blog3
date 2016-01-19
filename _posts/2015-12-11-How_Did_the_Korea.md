@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 어쩌다 한국은
-tags: book
+author: 박성호
+tags: book,교양
 ---
 
 ## 1 

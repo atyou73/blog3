@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 객체지향의 사실과 오해
-tags: book
+author: 조영호
+tags: book,교양(IT)
 ---
 
 ## 1

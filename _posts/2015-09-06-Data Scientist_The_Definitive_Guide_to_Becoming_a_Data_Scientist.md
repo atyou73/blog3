@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 데이터 과학자 - 그들은 무엇을 배우고 어떻게 준비하는가?
-tags: book
+author: 차하리아스 불가리스,안성준(역)
+tags: book,데이터분석
 ---
 
 ## 1

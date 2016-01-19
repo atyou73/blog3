@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 세상 물정의 물리학
-tags: book
+author: 김범준
+tags: book,통계,수학
 ---
 
 > "Things should be as simpe as possible, but not simpler"

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 요한복음강해
-tags: book
+author: 도올 김용옥
+tags: book,교양
 ---
 
 ## 1

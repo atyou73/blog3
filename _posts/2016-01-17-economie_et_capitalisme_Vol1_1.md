@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 물질문명과 자본주의 1-1
-tags: book
+author: 페르낭 브로델,주경철(역)
+tags: book,교양,경제학
 ---
 
 > 그리하여 나는 한 권 대신 세 권의 책을 썼다.

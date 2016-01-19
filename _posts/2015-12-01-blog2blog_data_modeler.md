@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 프로젝트 성패를 결정짓는 데이터 모델링 이야기
-tags: book
+author: 김상래
+tags: book,데이터분석
 ---
 
 > 우리는 반드시 집합의 개념으로 사고해야 한다.
