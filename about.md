@@ -15,5 +15,5 @@ permalink: /about/
 * Ruby on Rails(Not Ruby!)
 
 ### 연락처
-Blog : [www.sangkon.com](http://www.sangkon.com)
-Mail : [ask@sangkon.com](mailto:ask@sangkon.com)
+* Blog : [www.sangkon.com](http://www.sangkon.com)
+* Mail : [ask@sangkon.com](mailto:ask@sangkon.com)
