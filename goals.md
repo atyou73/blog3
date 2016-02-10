@@ -4,16 +4,6 @@ title: About
 permalink: /goals/
 ---
 
-### 관심분야
-* 데이터 수집
-* 데이터 분석
+# 2016년
+## '데이터 분석'을 공부하자!
 
-### 사용언어
-* C
-* Java
-* Python
-* Ruby on Rails(Not Ruby!)
-
-### 연락처
-Blog : [www.sangkon.com](http://www.sangkon.com)
-Mail : [ask@sangkon.com](mailto:ask@sangkon.com)
