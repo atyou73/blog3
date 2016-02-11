@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 나의 목표!
 permalink: /goals/
 ---
 
