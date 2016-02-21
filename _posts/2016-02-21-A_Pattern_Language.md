@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 지적대화를 위한 넓고 얕은 지식 - 현실너머 편
+title: A Pattern Language
 author: 크리스토퍼 알렉산더
 tags: book
 ---
