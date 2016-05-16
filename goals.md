@@ -5,6 +5,7 @@ permalink: /goals/
 ---
 
 ### 2016 목표
+
 #### 데이터 분석을 공부하자!
 * 관련 독서 목표
 	* [앞으로 데이터 분석을 시작하려는 사람을 위한 책](http://sigmadream.github.io/Book_for_people_who_want_to_start_a_data_analysis/)
@@ -18,5 +19,7 @@ permalink: /goals/
 * 관련 정리 할 것 들
    * 데이터 분석가를 향한 첫걸음
    * 데이터를 분석하는 방법
+	 
 #### 간단한 앱(Android/iOS)을 만들자
+
 #### 책을 쓰자
