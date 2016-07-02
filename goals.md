@@ -25,3 +25,12 @@ permalink: /goals/
 
 #### 책을 쓰자
 * Python, Ruby on Rails 관련 책
+
+#### 책을 읽자
+* 플라톤 전집
+	* [정암학당 플라톤 전집 01 - 뤼시스](http://sigmadream.github.io/Lysis/)
+	* [정암학당 플라톤 전집 02 - 크리티아스](http://sigmadream.github.io/Kritias/)
+	* [정암학당 플라톤 전집 03 - 알키비아데스 1,2](http://sigmadream.github.io/Alkibiades/)
+	* [정암학당 플라톤 전집 04 - 크라튈로스]
+	* [정암학당 플라톤 전집 05 - 메넥세노스]
+	* [정암학당 플라톤 전집 06 - 에우튀데모스]
