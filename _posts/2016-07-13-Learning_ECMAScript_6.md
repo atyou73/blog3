@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ECMAScript 6 길들이기
+title: ECMAScript 6 길들이기
 author: 나라얀 프루스티 (지은이), 이일웅 (옮긴이)
 tags: book
 ---

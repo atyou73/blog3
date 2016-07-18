@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  세상의 모든 공식 
+title: 세상의 모든 공식 
 author: 존 M. 헨쇼 저, 이재경 역 
 tags: book
 ---

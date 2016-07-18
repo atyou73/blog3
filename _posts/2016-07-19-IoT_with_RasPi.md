@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  사물인터넷을 품은 라즈베리 파이
+title: 사물인터넷을 품은 라즈베리 파이
 author: 김성우 (지은이)
 tags: book
 ---

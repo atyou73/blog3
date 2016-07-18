@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Flask 기반의 파이썬 웹 프로그래밍
+title: Flask 기반의 파이썬 웹 프로그래밍
 author: 이지호 (지은이)
 tags: book
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  가장 빨리 만나는 스프링 부트
+title: 가장 빨리 만나는 스프링 부트
 author: 마키 토시아키 (지은이), 김범준 (옮긴이)
 tags: book
 ---
