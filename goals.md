@@ -10,7 +10,7 @@ permalink: /goals/
 * 관련 독서 목표
 	* [앞으로 데이터 분석을 시작하려는 사람을 위한 책](http://sigmadream.github.io/Book_for_people_who_want_to_start_a_data_analysis/)
 	* [헬로 데이터 과학](http://sigmadream.github.io/Hello_Data_Sci/)
-	* 비즈니스를 위한 데이터 과학 - 빅데이터를 바라보는 데이터 마이닝과 분석적 사고
+	* [비즈니스를 위한 데이터 과학 - 빅데이터를 바라보는 데이터 마이닝과 분석적 사고](http://sigmadream.github.io/Data_Science_For_Business/)
 	* [상상하지 말라 - 그들이 말하지 않는 진짜 욕망을 보는 법](http://sigmadream.github.io/Dont_Fatnasy/)
 	* 파이썬 라이브러리를 활용한 데이터 분석 - 수정보완판, pandas, NumPy, IPython, matplotlib로 지진 데이터 시각화, 선거와 인구통계 분석 등 실사례 사용
 	* 소셜 웹 마이닝
@@ -21,7 +21,9 @@ permalink: /goals/
 	* 데이터를 분석하는 방법
 	 
 #### 간단한 앱(Android/iOS)을 만들자
-* 안드로이드 / iOS 관련 앱
+* 안드로이드(https://play.google.com/store/apps/details?id=com.sangkon.resume.sigmadreamresume)
+	* GDG에서 진행했던 안드로이드 스터디 후 만든 ['개인 이력서' App](https://play.google.com/store/apps/details?id=com.sangkon.resume.sigmadreamresume) 
+* iOS 관련 앱
 
 #### 책을 쓰자
 * Python, Ruby on Rails 관련 책
@@ -34,7 +36,7 @@ permalink: /goals/
 	* [정암학당 플라톤 전집 04 - 크라튈로스](http://sigmadream.github.io/Kratylos/)
 	* [정암학당 플라톤 전집 05 - 메넥세노스](http://sigmadream.github.io/Menexenos/)
 	* [정암학당 플라톤 전집 06 - 에우튀데모스](http://sigmadream.github.io/Euthydemos/)
-	* [정암학당 플라톤 전집 07 - 메논]
+	* [정암학당 플라톤 전집 07 - 메논](http://sigmadream.github.io/Menon/)
 	* [정암학당 플라톤 전집 08 - 편지들]
 	* [정암학당 플라톤 전집 09 - 크리톤]
 	* [정암학당 플라톤 전집 10 - 향연]
