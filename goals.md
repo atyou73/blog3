@@ -21,7 +21,7 @@ permalink: /goals/
 	* 데이터를 분석하는 방법
 	 
 #### 간단한 앱(Android/iOS)을 만들자
-* 안드로이드(https://play.google.com/store/apps/details?id=com.sangkon.resume.sigmadreamresume)
+* 안드로이드
 	* GDG에서 진행했던 안드로이드 스터디 후 만든 ['개인 이력서' App](https://play.google.com/store/apps/details?id=com.sangkon.resume.sigmadreamresume) 
 * iOS 관련 앱
 
