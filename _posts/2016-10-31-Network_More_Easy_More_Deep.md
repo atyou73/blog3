@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 네트워크 더 쉽게, 더 깊게
-author: 미카미 노부오 (지은이) | 박상욱 (엮은이)
+author: 미카미 노부오 (지은이), 박상욱 (엮은이)
 tags: book
 ---
 
