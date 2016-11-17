@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 한 권으로 끝내는 Node & Express : 웹사이트 구축을 위한 서버 사이드 자바스크립트
+title: 한 권으로 끝내는 Node & Express - 웹사이트 구축을 위한 서버 사이드 자바스크립트
 author: 이선 브라운 (지은이) | 한선용 (옮긴이)
 tags: book
 ---
