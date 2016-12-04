@@ -37,8 +37,8 @@ permalink: /goals/
 	* [정암학당 플라톤 전집 05 - 메넥세노스](http://sigmadream.github.io/Menexenos/)
 	* [정암학당 플라톤 전집 06 - 에우튀데모스](http://sigmadream.github.io/Euthydemos/)
 	* [정암학당 플라톤 전집 07 - 메논](http://sigmadream.github.io/Menon/)
-	* [정암학당 플라톤 전집 08 - 편지들]
-	* [정암학당 플라톤 전집 09 - 크리톤]
+	* [정암학당 플라톤 전집 08 - 편지들](http://sigmadream.github.io/EPISTOLAI/)
+	* [정암학당 플라톤 전집 09 - 크리톤](http://sigmadream.github.io/KRITON/)
 	* [정암학당 플라톤 전집 10 - 향연]
 	* [정암학당 플라톤 전집 11 - 고르기아스]
 	* [정암학당 플라톤 전집 12 - 프로타고라스]	
