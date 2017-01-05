@@ -4,6 +4,35 @@ title: 나의 목표
 permalink: /goals/
 ---
 
+### 2017 목표
+
+#### 마켓팅과 재무에 대해서 알아보자!
+* 월간 IM
+* 동아비즈니스 리뷰
+* 신비한 조약돌의 선택
+* 마케팅 리스타트
+
+#### 윈도우 앱(UWP)을 만들자!
+* TimeLine
+* .NET 기반 Web
+
+#### 책을 읽자!
+* 들뢰즈
+	* [안티 오이디푸스 - 자본주의와 분열증](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49808189)
+	* [천 개의 고원 - 자본주의와 분열증 2 ](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287641)
+	* [노마디즘 1](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390112)
+	* [노마디즘 2](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390113)
+	* [시네마 1 - 운동-이미지 ](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=365453)
+	* [시네마 2 - 시간-이미지 ](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=567495)
+
+* 칸트
+	* [순수 이성비판 1](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=669748)
+	* [순수 이성비판 2](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=669697)
+	* [판단력 비판](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3733294)
+	* [실천이성비판](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4470879)
+
+------
+
 ### 2016 목표
 
 #### 데이터 분석을 공부하자!
