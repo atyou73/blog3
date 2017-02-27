@@ -7,6 +7,12 @@ tags: book
 
 > ES5에서 Array.isArray()와 같이 오브젝트 프로퍼티로 작성된 isArray()를 함수라고 했으며, Sports.prototype.get = function(){}과 같이 prototype에 연결된 get()을 메서드라고 했습니다. 함수와 메서드를 구분해야 하는 이유는 new 연산자로 인스턴스를 생성할 때 인스턴스에 할당되는 기준이 다르기 때문입니다.
 
+## 1
+
+## 2
+
+## 3
+
 
 ----
 
