@@ -5,15 +5,16 @@ permalink: /about/
 ---
 
 ### 관심분야
-* 데이터 수집
-* 데이터 분석
+* 성능테스트
+* devops
+* 수학
 
 ### 사용언어
-* C
 * Java
+* JavaScript
 * Python
-* Ruby on Rails(Not Ruby!)
+* C++
 
 ### 연락처
-* Blog : [www.sangkon.com](http://www.sangkon.com)
-* Mail : [ask@sangkon.com](mailto:ask@sangkon.com)
+* Blog : [atyou73.github.io](http://atyou73.github.io/blog)
+* Mail : [atyou73@gmail.com](mailto:atyou73@gmail.com)
