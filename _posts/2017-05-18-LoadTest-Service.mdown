@@ -42,8 +42,7 @@ tags: loadtest
 <ul>
 <li>클라우드 기반 부하 테스트 서비스.</li>
 <li>10만 동접 테스트 가능.</li>
-</ul>
-</td>
+</ul></td>
 <td>
 <ul>
 <li><span style="text-decoration: underline;"><strong>무료로</strong> <strong>1분간 2URL</strong></span>의 <span style="text-decoration: underline;"><strong>만명 동접 테스트</strong></span> 가능</li>
