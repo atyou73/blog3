@@ -1,0 +1,15 @@
+---
+layout: post
+title: 성능테스트 툴 비교
+author: eblee
+tags: loadtest
+---
+
+# 성능테스트 툴 비교
+
+성능테스터 하면 로드러너인데 비용이 만만치 않아 선뜻 도입에 망설이게 된다.
+또한 도입하게 되더라도 성능테스트 특성상 가끔씩 벌크성으로 수행되어 유휴시간이 생각보다 많은게 현실이다.
+
+요즘 오픈소스(무료)로 성능테스트 툴을 제공하거나 서비스 형태로 제공하는 곳이 있어
+각각의 기능과  특징을 파악이 필요하다.[참조1](https://www.slideshare.net/awskorea/aws-load-test-mu-hyun-kim),[참조2](https://aws.amazon.com/ko/blogs/korea/how-to-loading-test-based-on-aws/)
+
